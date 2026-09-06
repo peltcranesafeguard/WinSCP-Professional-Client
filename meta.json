@@ -1,0 +1,23 @@
+{
+  "repo": "winscp-professional-client",
+  "product": "WinSCP Professional Client",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "utility",
+  "topics": [
+    "winscp",
+    "sftp-client",
+    "secure-file-transfer",
+    "ssh-sync",
+    "remote-folders",
+    "winscp-setup-failed-fix",
+    "how-to-install-winscp",
+    "winscp-windows",
+    "winscp-desktop-2026",
+    "winscp-desktop-package"
+  ],
+  "site": "toolix.me"
+}
